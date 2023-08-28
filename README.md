@@ -19,7 +19,7 @@ VerboVisions is an innovative Android app that utilizes AI to generate captivati
 
 To build and run the VerboVisions app locally, follow these steps:
 
-1. Clone this repository to your local machine using: `git clone https://github.com/yourusername/VerboVisions.git`
+1. Clone this repository to your local machine using: `git clone https://github.com/prakhardoneria/VerboVisions.git`
 2. Open the project in Android Studio.
 3. Build and run the app using the emulator or a physical device.
 
